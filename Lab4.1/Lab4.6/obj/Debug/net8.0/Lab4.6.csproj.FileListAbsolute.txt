@@ -1,0 +1,5 @@
+D:\DEV2409GH-T2356\NguyenTuanAnh_T2356_Csharp\Lab4.1\Lab4.6\obj\Debug\net8.0\Lab4.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV2409GH-T2356\NguyenTuanAnh_T2356_Csharp\Lab4.1\Lab4.6\obj\Debug\net8.0\Lab4.6.AssemblyInfoInputs.cache
+D:\DEV2409GH-T2356\NguyenTuanAnh_T2356_Csharp\Lab4.1\Lab4.6\obj\Debug\net8.0\Lab4.6.AssemblyInfo.cs
+D:\DEV2409GH-T2356\NguyenTuanAnh_T2356_Csharp\Lab4.1\Lab4.6\obj\Debug\net8.0\Lab4.6.csproj.CoreCompileInputs.cache
+D:\DEV2409GH-T2356\NguyenTuanAnh_T2356_Csharp\Lab4.1\Lab4.6\obj\Debug\net8.0\Lab4.6.sourcelink.json
